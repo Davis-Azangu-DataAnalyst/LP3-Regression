@@ -1,0 +1,25 @@
+1. Business Understanding.
+   - Problem statement
+   -Goal and Objectives
+   -Problem statement
+   -Stakeholders
+   - Key Metrics and Success Criteria
+   -Hypothesis
+   -Analytical Questions
+2. Data Understanding
+  - Importation of Libraries
+  - Loading of Data
+  -EDA Performance
+  - Data Validity and Cleaning
+  - Check quick stats about the data (info, head, size, unique values etc)
+  -Reset date features to datetime and set as index
+3. Data Preparation 
+  - Split data into train and test datasets appropriately 
+  -Create machine learning pipelines.
+      - Add imputation if Any
+      - Perform encoding where necessary
+4.Modelling
+  - Statistical modelling- (ARIMA, SARIMA, FB Prophet, Auto Regression, etc)
+  - Machine Learning Modelling (XGBoost, LinearRegression, etc)
+5. Evaluation
+
